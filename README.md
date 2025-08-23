@@ -9,3 +9,8 @@ python (file).py
 Then u should be able to play it
 
 It's a short story, and I'm hoping to make some new additions to it
+
+
+
+
+It's also nice and easy to change, so you can add your own changes to it!
