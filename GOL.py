@@ -4,7 +4,7 @@
 A Game Of Lore — interactive, AI-like story engine (single-file, stdlib only).
 
 How to play:
-- Run: python a_game_of_lore_v2.py
+- Run: python GOL.py
 - Type the number of a choice to continue.
 - Type commands anytime: help, save <slot>, load <slot>, slots, stats, quit
 - 8 save slots are available (1–8). Saves are JSON files in ./saves/
