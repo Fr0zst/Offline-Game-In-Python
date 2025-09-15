@@ -1,3 +1,5 @@
+# © 2025 Fr0zst. All rights reserved. 
+# Unauthorized copying prohibited.
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
